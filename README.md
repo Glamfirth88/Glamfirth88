@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Glamfirth88&color=blue)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Parisian Parliamentarians Project](https://archive.org/details/parisianparliamentarians)
+- 🔭 I’m currently working on [The Parisian Parliamentarians Project](https://archive.org/details/parisianparliamentarians)
 - 🌱 I’m currently learning text modelling methods for humanities research.
 - 👯 I’m looking to collaborate on academic projects.
 - 💬 Ask me about early modern state development.
@@ -21,13 +21,12 @@
 [![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=internet-explorer)](https://lucasjerusalimiec.ca/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas.jerusalimiec@mail.mcgill.ca)
 
+## 📝 Blog Posts
+Check out my [blog](https://lucasjerusalimiec.ca/blog/).
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glamfirth88&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glamfirth88&layout=compact&theme=radical)
-
-## 📝 Recent Blog Posts
-Check out my [blog](https://lucasjerusalimiec.ca/blog/).
-
 <!--
 **Glamfirth88/Glamfirth88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
